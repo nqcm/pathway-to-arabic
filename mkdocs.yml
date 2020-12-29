@@ -1,73 +1,73 @@
 site_name: Pathway to Arabic
-site_description: 'A pathway to learn Quranic Arabic through self study'
-site_url: 'https://arabic.naveeraashraf.com'
-site_author: 'Naveera Ashraf'
+site_description: "A pathway to learn Quranic Arabic through self study"
+site_url: "https://arabic.naveeraashraf.com"
+site_author: "Naveera Ashraf"
 
-copyright: '© All rights reserved - naveeraashraf.com'
+copyright: "© All rights reserved - naveeraashraf.com"
 
-google_analytics: 
+google_analytics:
   - "UA-126876847-3"
-  - 'auto'
-
+  - "auto"
 
 nav:
-  - Home: 'index.md'
-  - Getting Started: 'getting-started.md'
-  - Beginner: 
-    - 'Section Overview': 'beginner/overview.md'
-    - 'Course 1': 'beginner/course1.md'
-    - 'Course 2': 'beginner/course2.md'
-    - 'Course 3': 'beginner/course3.md'
-    - 'Course 4': 'beginner/course4.md'
+  - Home: "index.md"
+  - Getting Started: "getting-started.md"
+  - Beginner:
+      - "Section Overview": "beginner/overview.md"
+      - "Course 1": "beginner/course1.md"
+      - "Course 2": "beginner/course2.md"
+      - "Course 3": "beginner/course3.md"
+      - "Course 4": "beginner/course4.md"
   - Intermediate:
-    - 'Section Overview': 'intermediate/overview.md'
-    - 'Course 1': 'intermediate/course1.md'
-    - 'Course 2': 'intermediate/course2.md'
-    - 'Course 3': 'intermediate/course3.md'
-    - 'Course 4': 'intermediate/course4.md'
-    - 'Course 5': 'intermediate/course5.md'
-    - 'Course 6': 'intermediate/course6.md'
+      - "Section Overview": "intermediate/overview.md"
+      - "Course 1": "intermediate/course1.md"
+      - "Course 2": "intermediate/course2.md"
+      - "Course 3": "intermediate/course3.md"
+      - "Course 4": "intermediate/course4.md"
+      - "Course 5": "intermediate/course5.md"
+      - "Course 6": "intermediate/course6.md"
   - Advance Intermediate:
-    - 'Section Overview': 'advance-intermediate/overview.md'
-    - 'Course 1': 'advance-intermediate/course1.md'
-    - 'Course 2': 'advance-intermediate/course2.md'
-    - 'Course 3': 'advance-intermediate/course3.md'
-    - 'Course 4': 'advance-intermediate/course4.md'
-    - 'Course 5': 'advance-intermediate/course5.md'
-    - 'Course 6': 'advance-intermediate/course6.md'
-    - 'Course 7': 'advance-intermediate/course7.md'
-    - 'Course 8': 'advance-intermediate/course8.md'
-    - 'Course 9': 'advance-intermediate/course9.md'
-  - Advance: 
-    - 'Section Overview': 'advance/overview.md'
-    - 'Course 1': 'advance/course1.md'
-    - 'Course 2': 'advance/course2.md'
-    - 'Course 3': 'advance/course3.md'
-    - 'Course 4': 'advance/course4.md'
-    - 'Course 5': 'advance/course5.md'
-    - 'Course 6': 'advance/course6.md'
-    - 'Course 7': 'advance/course7.md'
-    - 'Course 8': 'advance/course8.md'
+      - "Section Overview": "advance-intermediate/overview.md"
+      - "Course 1": "advance-intermediate/course1.md"
+      - "Course 2": "advance-intermediate/course2.md"
+      - "Course 3": "advance-intermediate/course3.md"
+      - "Course 4": "advance-intermediate/course4.md"
+      - "Course 5": "advance-intermediate/course5.md"
+      - "Course 6": "advance-intermediate/course6.md"
+      - "Course 7": "advance-intermediate/course7.md"
+      - "Course 8": "advance-intermediate/course8.md"
+      - "Course 9": "advance-intermediate/course9.md"
+  - Advance:
+      - "Section Overview": "advance/overview.md"
+      - "Course 1": "advance/course1.md"
+      - "Course 2": "advance/course2.md"
+      - "Course 3": "advance/course3.md"
+      - "Course 4": "advance/course4.md"
+      - "Course 5": "advance/course5.md"
+      - "Course 6": "advance/course6.md"
+      - "Course 7": "advance/course7.md"
+      - "Course 8": "advance/course8.md"
   - Reading:
-    - 'Guided Reading': 'reading/guided-reading.md'
-    - 'Independent Reading': 'reading/independent-reading.md'
+      - "Guided Reading": "reading/guided-reading.md"
+      - "Independent Reading": "reading/independent-reading.md"
+      - "Iraab alQuran Guided Reading": "reading/iraab-quran-mehrali.md"
 
-repo_name: 'nqcm/pathway-to-arabic'
-repo_url: 'https://github.com/nqcm/pathway-to-arabic'
+repo_name: "nqcm/pathway-to-arabic"
+repo_url: "https://github.com/nqcm/pathway-to-arabic"
 
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/nqcm'
-    - type: 'twitter'
-      link: 'https://twitter.com/niqabicodermum'
-    - type: 'linkedin'
-      link: 'https://za.linkedin.com/in/naveera-ashraf'
-    - type: 'facebook'
-      link: 'https://www.facebook.com/theniqabicodermum'
+    - type: "github"
+      link: "https://github.com/nqcm"
+    - type: "twitter"
+      link: "https://twitter.com/niqabicodermum"
+    - type: "linkedin"
+      link: "https://za.linkedin.com/in/naveera-ashraf"
+    - type: "facebook"
+      link: "https://www.facebook.com/theniqabicodermum"
   # manifest: 'manifest.webmanifest'
 
-edit_uri: ''
+edit_uri: ""
 
 markdown_extensions:
   - admonition
@@ -78,7 +78,7 @@ markdown_extensions:
 
 theme:
   name: null
-  custom_dir: 'mkdocs-material/material'
+  custom_dir: "mkdocs-material/material"
   # Language for theme localization
   language: en
 
@@ -88,7 +88,6 @@ theme:
   # Feature flags for functionality that alters behavior significantly, and thus
   # may be a matter of taste
   feature:
-
     # Another layer on top of the main navigation for larger screens in the form
     # of tabs, especially useful for larger documentation projects
     tabs: false
@@ -96,7 +95,6 @@ theme:
   # Sets the primary and accent color palettes as defined in the Material Design
   # documentation - possible values can be looked up in the getting started guide
   palette:
-
     # Primary color used for header, sidebar and links, default: indigo
     primary: "grey"
 
@@ -106,7 +104,6 @@ theme:
   # Fonts used by Material, automatically loaded from Google Fonts - see the site
   # for a list of available fonts
   font:
-
     # Default font for text
     text: Roboto
 
@@ -114,12 +111,13 @@ theme:
     code: Roboto Mono
 
   # Favicon to be rendered
-  favicon: '/img/logo.png'
+  favicon: "/img/logo.png"
   # favicon: assets/images/favicon1.png
 
   # The logo of the documentation shown in the header and navigation can either
   # be a Material Icon ligature (see https://material.io/icons/) or an image URL
-  logo: '/img/map-signs-solid.svg'
+  logo:
+    "/img/map-signs-solid.svg"
     # icon: "\uE80C"
     # icon: 'explore'
 
@@ -134,5 +132,3 @@ theme:
   # Static pages to build
   static_templates:
     - 404.html
-
-

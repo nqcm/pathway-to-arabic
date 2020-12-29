@@ -1,4 +1,3 @@
-
 # في بلاط هرقل
 
 ![Fi balat hiraqla](/img/balaat-hiraqla.jpg)
@@ -10,9 +9,9 @@ Points of benefit and moral lessons learnt, are quoted from the great works of I
 
 !!! note "Course Materials"
 
-* Download the book from [here.](http://drvaniya.com/wp-content/uploads/2011/11/Fii-BalaaT-Hiraql-With-Lexical-and-Grammatical-Notes.pdf)
-* [Listen](http://drvaniya.com/wp-content/uploads/2011/11/%D9%81%D9%8A-%D8%A8%D9%84%D8%A7%D8%B7-%D9%87%D8%B1%D9%82%D9%84-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A3%D8%A8%D9%8A-%D8%B3%D9%81%D9%8A%D8%A7%D9%86.mp3) to the Arabic text of  Hadeeth.
-* Solutions to exercises can be downloaded from [here](http://drvaniya.com/wp-content/uploads/2011/11/Fii-BalaaT-Hiraql-Solutions-to-Exercises.pdf)
-* Explanation note from Dr Abdur Raheem about one of the concepts in the book can be seen [here](http://drvaniya.com/wp-content/uploads/2016/12/Q20-Faahu-ilaa-Fiyya-Haal.pdf)
+- Download the book from [here.](http://drvaniya.com/wp-content/uploads/2020/02/Fii-BalaaT-Hiraql-With-Lexical-and-Grammatical-Notes_.pdf)
+- [Listen](http://drvaniya.com/wp-content/uploads/2011/11/%D9%81%D9%8A-%D8%A8%D9%84%D8%A7%D8%B7-%D9%87%D8%B1%D9%82%D9%84-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A3%D8%A8%D9%8A-%D8%B3%D9%81%D9%8A%D8%A7%D9%86.mp3) to the Arabic text of Hadeeth.
+- Solutions to exercises can be downloaded from [here](http://drvaniya.com/wp-content/uploads/2011/11/Fii-BalaaT-Hiraql-Solutions-to-Exercises.pdf)
+- Explanation note from Dr Abdur Raheem about one of the concepts in the book can be seen [here](http://drvaniya.com/wp-content/uploads/2016/12/Q20-Faahu-ilaa-Fiyya-Haal.pdf)
 
 <br>
