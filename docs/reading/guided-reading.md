@@ -25,8 +25,9 @@ _by Abul Hasan alNadwi_
 
 Abul Hasan alNadwi is a well known scholar and he has written a series of books especially for children/beginners who are learning Arabic. Qasas anNabiyeen (stories of the prophets) is his famous work where he starts with very easy and basic language, gradually progressing to more difficult and sophisticated language. This is generally considered the best book for begiiner comprehension.
 
-!!! note ""
-Download the book from [here](http://abulhasanalinadwi.org/books/Qasasun.Nabiyyeen_1-4.pdf)
+!!! info "Download links"
+
+- Download the book from [here](http://abulhasanalinadwi.org/books/Qasasun.Nabiyyeen_1-4.pdf)
 
 ** Part One **
 
@@ -61,9 +62,9 @@ _by Abul Hasan alNadwi_
 
 Abul Hasan alNadwi is a well known scholar and he has written a series of books especially for children/beginners who are learning Arabic. Qasas anNabiyeen (stories of the prophets) is his famous work where he starts with very easy and basic language, gradually progressing to more difficult and sophisticated language. This is generally considered the best book for begiiner comprehension. This last volume is the highest in difiiculty level.
 
-!!! note ""
-Download the book from [here](http://abulhasanalinadwi.org/books/seerat%20khatimun%20nabiyyeen.pdf)
+!!! info "Download links"
 
+- Download the book from [here](http://abulhasanalinadwi.org/books/seerat%20khatimun%20nabiyyeen.pdf)
 - [Vocabulary list](https://archive.org/details/arabictoenglishvocabularyofqasas-un-nabiyeenvolume5-160709195901)
 - [Videos explaining iraab for some of the pages](https://www.youtube.com/watch?v=PvIIQJ5T7MU)
 
@@ -78,9 +79,9 @@ _by Abul Hasan alNadwi_
 
 Abul Hasan alNadwi is a well known scholar and he has written a series of books especially for children/beginners who are learning Arabic. Al-Qiraat-ur-Rashidah is a beginner Arabic reader written by him for the students of Arabic. It comprises of short stories and essays providing one with lots of practice in comprehension and vocabulary.
 
-!!! note ""
-Download the abridged version of the book from [here](https://ia802905.us.archive.org/0/items/WAQ108911/108911.pdf)
+!!! info "Download links"
 
+- Download the abridged version of the book from [here](https://ia802905.us.archive.org/0/items/WAQ108911/108911.pdf)
 - Download complete version [part 1](https://abulhasanalinadwi.org/books/al-qiratur-rashida-1-2/) and [part 2](https://abulhasanalinadwi.org/books/al-qiratur-rashida/)
 - [Guided reading videos](https://www.youtube.com/watch?v=8bWVZvd-eHw&list=PLyo54InWsoTYvkxFcC_EJVV9h8Ny-4K3H)
 
@@ -95,9 +96,9 @@ _Abdul Muhsin bin Muhammad alQasim_
 
 Written by the imam and khateeb of Masjid anNabawi, this book contains 7 Ahadith regarding the importance of seeking knowledge and then 115 Ahadith consisting of Adkhaar used throughout the days and nights and then the 99 Ahadith related to Aadaab (etiquettes).
 
-!!! note ""
-Download the book from [here](https://quran-mn.com/v2/index.php/ar/motoon-home/motoon-books-home/mustawa-0.html)
+!!! info "Download links"
 
+- Download the book from [here](https://quran-mn.com/v2/index.php/ar/motoon-home/motoon-books-home/mustawa-0.html)
 - [Guided reading videos of the complete book](https://www.youtube.com/playlist?list=PLyo54InWsoTYET5Be0I4hVlL7snQBIlMO)
 
 <br>
@@ -111,9 +112,9 @@ _by Abul Hasan alNadwi_
 
 Another book by Abul Hasan alNadwi.
 
-!!! note ""
-Download the book from [here](http://ia902205.us.archive.org/34/items/rfwdfi/rfwdfi.pdf)
+!!! info "Download links"
 
+- Download the book from [here](http://ia902205.us.archive.org/34/items/rfwdfi/rfwdfi.pdf)
 - [Guided reading videos](https://www.youtube.com/watch?v=JJhZ8NmFuGg&list=PL7C66A7F9199857E4&fbclid=IwAR0B8cDKR3px8QnsWtasfIwt7pcRnKGEJapZg0h-ZoqJ-Y-RTr9hnOAjsMM)
 
 <br>
@@ -127,9 +128,9 @@ _by Imam Yahya bin Sharif AlNawawi and Ibn Rajab_
 
 Imam al-Nawawi’s collection of 40 Hadiths is one of the most important collections of hadiths we have today. Imam al Nawawi actually compiled a total of 42 hadiths for this collection, not 40. This collection contains 50 ahadeeth however, the last eight added by Imam Ibn Rajab. You can read more about this famous work [here](https://40hadithnawawi.com/posts/the-collection/).
 
-!!! note ""
-Download the book from [here](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/40-ahadeeth-nawawi-arabic-text.pdf)
+!!! info "Download links"
 
+- Download the book from [here](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/40-ahadeeth-nawawi-arabic-text.pdf)
 - Listen to the ahadeeth text in Arabic [here](https://archive.org/details/AlArba3onAnnawawia/01.mp3).
 - Read the original 42 ahadeeth and their English translation online [here](https://40hadithnawawi.com/).3.
 - Watch guided reading videos [here](https://www.youtube.com/playlist?list=PLyo54InWsoTaD4y9R03p8yarly606WSec).
@@ -146,9 +147,9 @@ _Dr. Muhammad Suleiman Al-Ashqar_
 
 Zubdah alTafseer is an abridged version of فتح القدير of Sheikh Muhammad bin Ali Shawkani, written by Dr. Muhammad Suleiman Al-Ashqar. The language is easy and it is recommended by many as a perfect beginner friendly tafseer.
 
-!!! note ""
-You can read online or download the complete book from [here](https://islamhouse.com/ar/books/398614/)
+!!! info "Download links"
 
+- You can read online or download the complete book from [here](https://islamhouse.com/ar/books/398614/)
 - Download the last Juz and Surah al-Fatihah from [here](https://drive.google.com/file/d/1npd6LapINnBDSFKGCN3poprM28jFdbv8/view)
 - [Guided reading videos of the last juz and surah al-Fatihah](https://www.youtube.com/playlist?list=PLLR4KhKkm2c9-LZAqxA6NQeWmltSziXVK)
 
@@ -163,14 +164,13 @@ _by Sheikh Abdul Aziz bin Baaz_
 
 Important Lessons for the Ummah is a comprehensive, basic, summarized, necessary reference book by Sheikh bin Baaz. This small book contains a series of small lessons on the most necessary things to teach or learn, such as the basics of belief, ablutions and prayers etc.
 
-!!! note ""
-Download the [original Arabic book](https://archive.org/details/FP102407/page/n5)
+!!! info "Download links"
 
-- [Original book with English translation](https://islamhouse.com/ar/books/51785/)
-- [Explanation of the book in Arabic by Sheikh Abdul Kareen alKhadeer](https://shkhudheir.com/files/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3%20%D8%A7%D9%84%D9%85%D9%87%D9%85%D8%A9%20-%20%D9%86%D8%B3%D8%AE%D8%A9%20%D9%83%D8%A7%D9%85%D9%84%D8%A9.pdf)
-- [English lectures explaining the book by Dr. Saleh as Saleh (Audio)](https://abdurrahman.org/2014/11/15/important-lessons-for-the-ummah-shaykh-ibn-baaz-dr-saleh-as-saleh/)
-- [Udru lectures explaining the book by Sheikh Yasir AlJabri Madani](https://www.youtube.com/playlist?list=PLmHt8q6lkKBTN9NpaAgRx5edBdb4mrHGa)
-- **BONUS MATERIAL** [Arabic lectures explaining the book by Sheikh Abdur Razzaq alBadr](https://www.youtube.com/playlist?list=PLI5jAYjTi9UBvA-J3tWwizcQAYOtS5xSr). Although the lectures are in Arabic but the language is easy to understand.
+- Download the [original Arabic book](https://archive.org/details/FP102407/page/n5)
+- [Arabic book with English translation](https://islamhouse.com/ar/books/51785/)
+- [English lectures explaining the book (Audio)](https://abdurrahman.org/2014/11/15/important-lessons-for-the-ummah-shaykh-ibn-baaz-dr-saleh-as-saleh/) by Dr. Saleh as Saleh.
+- [Udru lectures explaining the book](https://www.youtube.com/playlist?list=PLmHt8q6lkKBTN9NpaAgRx5edBdb4mrHGa) by Sheikh Yasir AlJabri Madani, former teacher at Masjid anNabawi.
+- **BONUS MATERIAL** [Arabic lectures explaining the book](https://www.youtube.com/playlist?list=PLI5jAYjTi9UBvA-J3tWwizcQAYOtS5xSr) by Sheikh Abdur Razzaq alBadr. Although the lectures are in Arabic but the language is easy to understand.
 
 <br>
 ****
@@ -183,9 +183,9 @@ _Collection of poetry by Imam Shafee_
 
 Imam Shafee doesn't need any introduction. Not only was he a great Faqeeh, he wasl also a great poet. His poetry is full of hikam (wise sayings) and lessons. A must read for any student of Arabic language. A lot of his poetry has been collected by his students and compiled in a book for in later years.
 
-!!! note ""
-Download the book from [here](https://ia800201.us.archive.org/16/items/waqdshaf/33093.pdf)
+!!! info "Download links"
 
+- Download the book from [here](https://ia800201.us.archive.org/16/items/waqdshaf/33093.pdf)
 - [English translation of selected poems](https://ia800902.us.archive.org/4/items/selected_poems_from_imam_alshafi_ee/selected_poems_from_imam_alshafi_ee.pdf)
 - [Urdu translation of most of his poems](https://ia600300.us.archive.org/27/items/mateen_201502/%D8%AF%DB%8C%D9%88%D8%A7%D9%86%20%D8%A7%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%B4%D8%A7%D9%81%D8%B9%DB%8C-%D8%A7%D8%B1%D8%AF%D9%88%20%D8%AA%D8%B1%D8%AC%D9%85%DB%81.pdf)
 - Watch explainer videos for many of his work in Arabic [here](https://www.youtube.com/watch?v=bsm5nbiKzHc&list=PLSCByKt3vw-Y7CoZq8V2iXZWW-aHnWxpG)
