@@ -132,8 +132,8 @@ Imam al-Nawawi’s collection of 40 Hadiths is one of the most important collect
 
 - Download the book from [here](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/40-ahadeeth-nawawi-arabic-text.pdf)
 - Listen to the ahadeeth text in Arabic [here](https://archive.org/details/AlArba3onAnnawawia/01.mp3).
-- Read the original 42 ahadeeth and their English translation online [here](https://40hadithnawawi.com/).3.
-- Watch guided reading videos [here](https://www.youtube.com/playlist?list=PLyo54InWsoTaD4y9R03p8yarly606WSec).
+- Read the original 42 ahadeeth and their English translation online [here](https://40hadithnawawi.com/).
+- Watch guided reading videos [here](https://www.youtube.com/playlist?list=PLyo54InWsoTap8bcDL9y_WtgUWvr5EN8d).
 - If you are feeling upto the challenge, you can read [Sheikh Ibn Uthaimeen's explanation of this book in Arabic](/reading/independent-reading/#شرح-اللأربعين-النووية-للعثيمين).
 
 <br>
@@ -171,6 +171,22 @@ Important Lessons for the Ummah is a comprehensive, basic, summarized, necessary
 - [English lectures explaining the book (Audio)](https://abdurrahman.org/2014/11/15/important-lessons-for-the-ummah-shaykh-ibn-baaz-dr-saleh-as-saleh/) by Dr. Saleh as Saleh.
 - [Udru lectures explaining the book](https://www.youtube.com/playlist?list=PLmHt8q6lkKBTN9NpaAgRx5edBdb4mrHGa) by Sheikh Yasir AlJabri Madani, former teacher at Masjid anNabawi.
 - **BONUS MATERIAL** [Arabic lectures explaining the book](https://www.youtube.com/playlist?list=PLI5jAYjTi9UBvA-J3tWwizcQAYOtS5xSr) by Sheikh Abdur Razzaq alBadr. Although the lectures are in Arabic but the language is easy to understand.
+
+<br>
+****
+
+## **Tafseer al-Jalâlain**
+
+_by Imam Suyuti_
+
+![al-Tafseer al-Jalâlain](/img/tafseer-al-jalâlain.jpg)
+
+Tafseer al-Jalâlain is a relatively short, but extremely deep and comprehensive work of tafseer. It has been considered an important first text in the study of tafseer across the Muslim world. In this YouTube playlist you can watch Shaikh Furhan Zubairi go through the entire book, translating and explaining the Arabic text.
+
+!!! info "Download links"
+
+- Download the [original Arabic book](https://www.noor-book.com/en/ebook-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%8A%D8%B3%D8%B1--pdf)
+- [Guided reading videos](https://www.youtube.com/playlist?list=PLd1iIFdWNC2noGIvvrDjmdWaBCUHJiQkM)
 
 <br>
 ****
