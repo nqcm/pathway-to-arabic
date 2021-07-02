@@ -4,4 +4,4 @@ This book is part of the three Madinah Books. It contains the solutions to the â
 
 !!! note "Course Materials"
 
-* [Al Ajwibah](http://drvaniya.com/wp-content/uploads/2012/05/Al-Ajwibah-Solutions-to-General-Questions-at-End-of-Madinah-Book-3.pdf)
+- [Al Ajwibah](http://drvaniya.com/wp-content/uploads/2012/05/Al-Ajwibah-Solutions-to-General-Questions-at-End-of-Madinah-Book-3.pdf){target=\_blank}

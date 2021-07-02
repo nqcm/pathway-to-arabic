@@ -7,12 +7,12 @@ Various selected Quranic chapters are gathered with lexical and grammatical note
 
 !!! note "Course Materials"
 
-* Download the book from [here.](http://www.lqtoronto.com/sfgq.html)
-* Accompanying videos of Dr. Abdur Raheem teaching this course personally. You can download the videos from [here](http://www.lqtoronto.com/videoSFGQdl.html) or watch them on [Youtube.](https://www.youtube.com/playlist?list=PLLR4KhKkm2c9hxN-ra3OKgQjg39hQeVPW)
-* [Surah al-Fatihah workbook with answers](http://drvaniya.com/?p=13451)
-* [Surah al-Baqarah workbook with answers](http://drvaniya.com/?p=14013)
-* [Surah al-Ruum workbook with answers](http://drvaniya.com/?p=13949)
-* [Surah Abasa workbook with answers](http://drvaniya.com/?p=13838)
-* [Simple tafseer in Arabic of all surahs in the book](http://drvaniya.com/wp-content/uploads/2019/08/al-Tafsiir-al-Muyassar-suurahs-on-Selections-course.pdf)
+- Download the book from [here.](http://www.lqtoronto.com/sfgq.html){target=\_blank}
+- Accompanying videos of Dr. Abdur Raheem teaching this course personally. You can download the videos from [here](http://www.lqtoronto.com/videoSFGQdl.html){target=\_blank} or watch them on [Youtube.](https://www.youtube.com/playlist?list=PLLR4KhKkm2c9hxN-ra3OKgQjg39hQeVPW){target=\_blank}
+- [Surah al-Fatihah workbook with answers](http://drvaniya.com/?p=13451){target=\_blank}
+- [Surah al-Baqarah workbook with answers](http://drvaniya.com/?p=14013){target=\_blank}
+- [Surah al-Ruum workbook with answers](http://drvaniya.com/?p=13949){target=\_blank}
+- [Surah Abasa workbook with answers](http://drvaniya.com/?p=13838){target=\_blank}
+- [Simple tafseer in Arabic of all surahs in the book](http://drvaniya.com/wp-content/uploads/2019/08/al-Tafsiir-al-Muyassar-suurahs-on-Selections-course.pdf){target=\_blank}
 
 <br>

@@ -1,4 +1,3 @@
-
 # إنهما من مشكاة واحدة
 
 ![Surah alQasas](/img/both-these-lights_.jpg)
@@ -12,8 +11,8 @@ In prepartion for the Arabic only books, Dr Abdur Raheem has written this book i
 
 !!! note "Course Materials"
 
-* Download the book from [here.](http://drvaniya.com/wp-content/uploads/2011/11/Both-These-Lights-Emanate-From-the-Same-Niche-With-Lexical-and-Grammatical-Notes.pdf)
-* Solutions to exercises can be downloaded from [here.](http://drvaniya.com/wp-content/uploads/2011/11/Both-These-Lights-Emanate-from-the-Same-Niche-Solutions.pdf)
-* Arabic-only version of the book can be downloaded from [here.](http://drvaniya.com/wp-content/uploads/2012/01/Both-These-Lights-ARABIC-RELEASE.pdf)
+- Download the book from [here.](http://drvaniya.com/wp-content/uploads/2011/11/Both-These-Lights-Emanate-From-the-Same-Niche-With-Lexical-and-Grammatical-Notes.pdf){target=\_blank}
+- Solutions to exercises can be downloaded from [here.](http://drvaniya.com/wp-content/uploads/2011/11/Both-These-Lights-Emanate-from-the-Same-Niche-Solutions.pdf){target=\_blank}
+- Arabic-only version of the book can be downloaded from [here.](http://drvaniya.com/wp-content/uploads/2012/01/Both-These-Lights-ARABIC-RELEASE.pdf){target=\_blank}
 
 <br>

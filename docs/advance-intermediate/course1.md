@@ -7,16 +7,13 @@ The selected aayaat from surah al-Nur with extensive lexical and grammatical not
 
 !!! note "Course Materials"
 
-* Download the book from [here](http://drvaniya.com/wp-content/uploads/2011/11/Suurat-al-Nuur-With-Lexical-and-Grammatical-Notes.pdf) or buy it from the [U.K.](https://kitaabun.com/shopping3/product_info.php?products_id=6382) or [India.](http://islamicshop.in/store/dr-v-abdur-rahim-books/nuur-un-alaa-nuur.html)
-* Accompanying videos of Dr. Abdur Raheem teaching this course personally. You can download the videos from [here](http://www.lqtoronto.com/videoNANdl.html) or watch them on [Youtube.](https://www.youtube.com/watch?v=iVeEXpoSVVg&list=PLbHImzKxsxxOBfSdIRjlUkLxSI6_yU0f0&index=1)
-
+- Download the book from [here](http://drvaniya.com/wp-content/uploads/2011/11/Suurat-al-Nuur-With-Lexical-and-Grammatical-Notes.pdf){target=\_blank} or buy it from the [U.K.](https://kitaabun.com/shopping3/product_info.php?products_id=6382){target=\_blank} or [India.](http://islamicshop.in/store/dr-v-abdur-rahim-books/nuur-un-alaa-nuur.html){target=\_blank}
+- Accompanying videos of Dr. Abdur Raheem teaching this course personally. You can download the videos from [here](http://www.lqtoronto.com/videoNANdl.html){target=\_blank} or watch them on [Youtube.](https://www.youtube.com/watch?v=iVeEXpoSVVg&list=PLbHImzKxsxxOBfSdIRjlUkLxSI6_yU0f0&index=1){target=\_blank}
 
 <br>
 
-
 !!! tip "Optional Study Aids"
-    
-* [Easy tafseer of Surah in Arabic](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/tafseer-muyassar-surah-Noor.pdf)
 
+- [Easy tafseer of Surah in Arabic](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/tafseer-muyassar-surah-Noor.pdf){target=\_blank}
 
 <br>

@@ -10,7 +10,7 @@ Madinah Arabic books is the world renowned program of study to learn Arabic lang
 
 ## A note about the volume numbers
 
-Originally Dr Abdur Raheem has written 3 volumes of Madinah Arabic books, or to give them their proper name دروسُ اللغةِ العربيةِ لـغير الناطقين بـها (Durûs al-Lughah al-‘Arabiyyah li-Ghair al-Nâtiqîna Bihâ). Now these books are popularly known throughout the world as Madinah books. When Goodwords books and other publishers published these books by the name of Madinah Arabic Readers, they divided these three volumes into further volumes so there are altogether 8 volumes. Since these books are being used as text books in many schools, making smaller volumes means that kids in the school can study one book per year and finish the whole program in eight years. 
+Originally Dr Abdur Raheem has written 3 volumes of Madinah Arabic books, or to give them their proper name دروسُ اللغةِ العربيةِ لـغير الناطقين بـها (Durûs al-Lughah al-‘Arabiyyah li-Ghair al-Nâtiqîna Bihâ). Now these books are popularly known throughout the world as Madinah books. When Goodwords books and other publishers published these books by the name of Madinah Arabic Readers, they divided these three volumes into further volumes so there are altogether 8 volumes. Since these books are being used as text books in many schools, making smaller volumes means that kids in the school can study one book per year and finish the whole program in eight years.
 
 !!! summary "To summarize"
 
@@ -22,6 +22,6 @@ This gives rise to lots of confusion. So to clarify, when I refer to any volume 
 
 ## Prerequisite for this section
 
-You must be able to read and write in Arabic fluently. If you do not know how to read or write in Arabic or if you want to brush up on your reading/writing skills you can first follow [At-Tibyaan](http://www.lqtoronto.com/tibyan.html) by Dr Abdur Raheem. Or any other book you may wish.
+You must be able to read and write in Arabic fluently. If you do not know how to read or write in Arabic or if you want to brush up on your reading/writing skills you can first follow [At-Tibyaan](http://www.lqtoronto.com/tibyan.html){target=\_blank} by Dr Abdur Raheem. Or any other book you may wish.
 
 <br>

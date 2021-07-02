@@ -1,4 +1,3 @@
-
 # نصوص من الحديث النبوي الشريف
 
 ![Nusus Hadeeth](/img/nusus-hadeeth.jpg)
@@ -8,6 +7,8 @@ Building on from the previous books in the series of annotated ahadeeth, this bo
 
 !!! note "Course Materials"
 
-* This book along with other books of anotated ahadeeth by Dr Abdur Raheem have been combined in one book by the name of **أربعون حديثا** and can bought from [USA](http://www.onlineislamicstore.com/b9839.html) or UK [here](https://kitaabun.com/shopping3/arbaouna-hadithan-arabic-forty-hadith-teach-arabic-language-p-958.html) and [here](https://darussalam.com/index.php/arbaouna-hadith-arabic.html).
+- Download the book from [here](http://drvaniya.com/wp-content/uploads/2021/06/Nusuus-min-al-Hadiith.pdf){target=\_blank}.
+- This book along with other books of anotated ahadeeth by Dr Abdur Raheem have been combined in one book by the name of **أربعون حديثا** and can bought from [USA](http://www.onlineislamicstore.com/b9839.html){target=\_blank} or UK [here](https://kitaabun.com/shopping3/arbaouna-hadithan-arabic-forty-hadith-teach-arabic-language-p-958.html){target=\_blank} and [here](https://darussalam.com/index.php/arbaouna-hadith-arabic.html){target=\_blank}.
+- [Answer to exercises](http://drvaniya.com/wp-content/uploads/2021/06/Solutions.pdf){target=\_blank}
 
 <br>

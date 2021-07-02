@@ -5,10 +5,6 @@ site_author: "Naveera Ashraf"
 
 copyright: "© All rights reserved - naveeraashraf.com"
 
-google_analytics:
-  - "UA-126876847-3"
-  - "auto"
-
 nav:
   - Home: "index.md"
   - Getting Started: "getting-started.md"
@@ -66,6 +62,9 @@ extra:
     - type: "facebook"
       link: "https://www.facebook.com/theniqabicodermum"
   # manifest: 'manifest.webmanifest'
+  analytics:
+    provider: google
+    property: UA-126876847-3
 
 edit_uri: ""
 
@@ -75,6 +74,7 @@ markdown_extensions:
       guess_lang: false
   - toc:
       permalink: true
+  - attr_list
 
 theme:
   name: null

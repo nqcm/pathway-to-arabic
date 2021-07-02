@@ -1,4 +1,3 @@
-
 # اثّاقلتم
 
 ![Iththaqaltum](/img/iththaaqaltum.jpg)
@@ -8,6 +7,6 @@ Build on your understanding of how certain words are transformed for phonetic re
 
 !!! note "Course Materials"
 
-* You can download the complete book from [here](http://drvaniya.com/wp-content/uploads/2019/08/Iththaaqaltum-Quraanic-Sarf-and-Phonetics.pdf).
+- You can download the complete book from [here](http://drvaniya.com/wp-content/uploads/2019/08/Iththaaqaltum-Quraanic-Sarf-and-Phonetics.pdf){target=\_blank}.
 
 <br>

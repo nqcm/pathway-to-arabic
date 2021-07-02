@@ -2,6 +2,6 @@
 
 In this section you will build upon your learning of [Madina Arabic books.](/beginner/overview)
 
-__Prerequisite for this section__
+**Prerequisite for this section**
 
-You must first complete all the courses in the [Beginner section](/beginner/overview) or must have equivalent knowledge. 
+You must first complete all the courses in the [Beginner section](/beginner/overview){target=\_blank} or must have equivalent knowledge.

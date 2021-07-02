@@ -6,6 +6,6 @@ Simple ahadeeth with lexical and grammatical notes, as well as explanation of ne
 
 !!! note "Course Materials"
 
-* Download the book from [here](http://drvaniya.com/?p=12908)
+- Download the book from [here](http://drvaniya.com/?p=12908){target=\_blank}
 
 <br>
