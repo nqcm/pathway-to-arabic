@@ -1,0 +1,107 @@
+site_name: Pathway to Arabic
+site_description: "A pathway to learn Quranic Arabic through self study"
+site_url: "https://arabic.naveeraashraf.com"
+site_author: "Naveera Ashraf"
+
+copyright: "© All rights reserved - naveeraashraf.com"
+
+repo_name: "nqcm/pathway-to-arabic"
+repo_url: "https://github.com/nqcm/pathway-to-arabic"
+
+edit_uri: ""
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+
+extra:
+  analytics:
+    provider: google
+    property: G-V3M8Y9VHG8
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nqcm
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/niqabicodermum
+    - icon: fontawesome/brands/linkedin
+      link: https://za.linkedin.com/in/naveera-ashraf
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/niqabi.coder.mum/
+
+nav:
+  - Home: "index.md"
+  - Getting Started: "getting-started.md"
+  - Beginner:
+      - beginner/index.md
+      - "Course 1": "beginner/course1.md"
+      - "Course 2": "beginner/course2.md"
+      - "Course 3": "beginner/course3.md"
+      - "Course 4": "beginner/course4.md"
+  - Intermediate:
+      - intermediate/index.md
+      - "Course 1": "intermediate/course1.md"
+      - "Course 2": "intermediate/course2.md"
+      - "Course 3": "intermediate/course3.md"
+      - "Course 4": "intermediate/course4.md"
+      - "Course 5": "intermediate/course5.md"
+      - "Course 6": "intermediate/course6.md"
+  - Advance Intermediate:
+      - advance-intermediate/index.md
+      - "Course 1": "advance-intermediate/course1.md"
+      - "Course 2": "advance-intermediate/course2.md"
+      - "Course 3": "advance-intermediate/course3.md"
+      - "Course 4": "advance-intermediate/course4.md"
+      - "Course 5": "advance-intermediate/course5.md"
+      - "Course 6": "advance-intermediate/course6.md"
+      - "Course 7": "advance-intermediate/course7.md"
+      - "Course 8": "advance-intermediate/course8.md"
+      - "Course 9": "advance-intermediate/course9.md"
+      - "Course 10": "advance-intermediate/course10.md"
+  - Advance:
+      - advance/index.md
+      - "Course 1": "advance/course1.md"
+      - "Course 2": "advance/course2.md"
+      - "Course 3": "advance/course3.md"
+      - "Course 4": "advance/course4.md"
+      - "Course 5": "advance/course5.md"
+      - "Course 6": "advance/course6.md"
+      - "Course 7": "advance/course7.md"
+  - Classical Texts: classical-texts/index.md
+  - Reading:
+      - "Guided Reading": "reading/guided-reading.md"
+      - "Independent Reading": "reading/independent-reading.md"
+      - "Iraab alQuran Guided Reading": "reading/iraab-quran-mehrali.md"
+  - Poetry: poetry/index.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+      primary: grey
+      accent: indigo
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+      primary: indigo
+      accent: indigo
+
+  logo: img/logo.svg
+  favicon: img/logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - search.share
+
+  plugins:
+    - social
+    - search:
+      lang:
+        - eng
+        - ar
