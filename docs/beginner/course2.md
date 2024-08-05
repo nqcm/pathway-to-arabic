@@ -16,9 +16,8 @@
 
 !!! tip "Optional Study Aids"
 
-- [Vocabulary learning aid](https://www.memrise.com/course/298802/madina-arabic-book-1-2/){target=\_blank} for Madinah Arabic Book 2.
 - [Anki flashcards](https://ankiweb.net/shared/info/1669391579){target=\_blank} for Book 2 vocabulary. If you are not familiar with Anki please read [this.](<https://en.wikipedia.org/wiki/Anki_(software)>){target=\_blank}
-- [Grammar notes in a visual form.](http://www.lqmississauga.com/wp-content/uploads/2015/10/LQ-Mississauga-Madinah-Book-2-Notes-v7.pdf){target=\_blank}
+- [Grammar notes in a visual form.](https://ia803101.us.archive.org/27/items/LQMMadinahBookNotes/LQM_Quranic_Arabic_Notes_Level2_v12.pdf){target=\_blank}
 - [Audio files](http://www.lqtoronto.com/audio.html){target=\_blank} of Madinah Arabic Books narrated in Arabic, English and Urdu.
 - [Madinah Book 1 Handouts](http://www.archive.org/download/MadinaBooksHandouts/Book2and3.pdf){target=\_blank} (referred to in the videos).
 - [Madinah Arabic side book for reading.](http://www.archive.org/download/MadinaArabicCourseNotes-Book3/Madina_side_book_reading_level_1.pdf){target=\_blank}

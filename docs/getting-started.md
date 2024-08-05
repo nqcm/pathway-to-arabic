@@ -32,7 +32,7 @@ Luckily we live in an age where we can connect to lots of mentors and fellow stu
 
 Below are the links to some social media channels from where you can find lots of help.
 
-- My [Facebook group](https://www.facebook.com/groups/pathwaytoarabic/){target=\_blank} for the people following this pathway.
+- My [Facebook group](https://www.facebook.com/groups/pathwaytoarabic/){target=\_blank} for the people following this pathway. (Archived)
 - My [Telegram group](https://t.me/pathway_to_arabic){target=\_blank} for the people following this pathway.
 - My sisters only [Telegram group](https://t.me/+vAAsT4s5bD00OGVk){target=\_blank} for the people following this pathway.
 - [Facebook group](https://www.facebook.com/groups/madinabooks/){target=\_blank} for the students of Madinah Arabic books.
@@ -40,6 +40,7 @@ Below are the links to some social media channels from where you can find lots o
 - [LQToronto forums](http://www.lqtoronto.com/forums/){target=\_blank}
 - [Learn_Arabic subreddit](https://www.reddit.com/r/learn_arabic/){target=\_blank}
 - [Translator subreddit](https://www.reddit.com/r/translator/){target=\_blank}
+- I have teached and currently teaching many books from this pathway in free online ladies only classes. Recordings of the classes are also available. Any sisters who are interested in joining the classes please join the Telegram groups and message me. 
 - I sometimes offer online personal mentorship, free of charge, for students of this pathway. If you are interested please email me at { hello at naveeraashraf.com }
 
 !!! tip "Tools"

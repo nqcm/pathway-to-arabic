@@ -8,6 +8,8 @@ Anyone who has learnt Arabic through Madinah Arabic books by watching LQ Toronto
 
 You can start reading these books alongside other courses. But ideally you should first complete the three Madinah Books before you will be able to understand these books.
 
+**Update August 2024** Brother Asif is no more teaching but other teachers from LQToronto have been taking this series further. You can find the complete playlist [here](https://www.youtube.com/playlist?list=PLbHImzKxsxxPKX4mHiFb-871vkJekLSkr){target=\_blank}. 
+
 <br>
 ****
 

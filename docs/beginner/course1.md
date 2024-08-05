@@ -16,10 +16,9 @@
 
 !!! tip "Optional Study Aids"
 
-- [Vocabulary learning aid](https://www.memrise.com/course/298802/madina-arabic-book-1-2/){target=\_blank} for Madinah Arabic Book 1.
 - [Anki flashcards](https://ankiweb.net/shared/info/1250634315){target=\_blank} for Book 1 vocabulary. If you are not familiar with Anki please read [this.](<https://en.wikipedia.org/wiki/Anki_(software)>){target=\_blank}
 - Colored worksheets for the first 10 chapters of the book can be downloaded from [here.](http://drvaniya.com/?page_id=2141){target=\_blank}
-- [Grammar notes in a visual form.](http://www.lqmississauga.com/wp-content/uploads/2015/03/LQ-Mississauga-Madinah-Book-1-Notes-v8.pdf){target=\_blank}
+- [Grammar notes in a visual form.](https://dn790004.ca.archive.org/0/items/LQMMadinahBookNotes/LQM_Quranic_Arabic_Notes_Level1_v9.pdf){target=\_blank}
 - [Audio files](http://www.lqtoronto.com/audio.html){target=\_blank} of Madinah Arabic Books narrated in Arabic, English and Urdu.
 - [Madinah Book 1 Handouts](http://www.archive.org/download/MadinaBooksHandouts/Book1.pdf){target=\_blank} (referred to in the videos).
 - [Madinah Arabic Quran reading book by drvaniya.com](http://drvaniya.com/wp-content/uploads/2019/11/Madinah-Book-1-Quraan-Reading-Book.pdf){target=\_blank} contains easy and stimulating Quranic examples with words taught in Madinah Book 1. Gives level 1 students an exciting and early opportunity to connect with the Arabic Qur’aan.
