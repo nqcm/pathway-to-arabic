@@ -1,3 +1,5 @@
 site/
 env/
 Pipfile.lock
+.cache/
+__pycache__/
