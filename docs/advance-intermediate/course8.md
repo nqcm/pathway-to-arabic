@@ -15,3 +15,9 @@ In prepartion for the Arabic only books, Dr. Abdur Raheem has written this book 
 - Arabic-only version of the book can be downloaded from [here.](http://drvaniya.com/wp-content/uploads/2012/01/From-Esfahan-to-Madinah-ARABIC-ONLY-TITLE.pdf){target=\_blank}
 
 <br>
+
+!!! tip "Optional Study Aids"
+
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/from-esfahan-to-madina-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
+
+<br>

@@ -1,6 +1,6 @@
 #Three Stories From Our Glorious Past
 
-![Surah alQasas](/img/three-stories.jpg)
+![Three Stories From Our Glorious Past](/img/three-stories.jpg)
 
 <br>
 Three inspiring stories from the biographies of the scholars. Each story contains lessons and morals as well as detailed lexical and grammatical notes, additional notes, and exercises.

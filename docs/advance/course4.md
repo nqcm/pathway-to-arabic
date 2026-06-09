@@ -14,6 +14,7 @@ Quran describes Surah Yusuf as أحسن القصص the best of stories. Enter th
 
 !!! tip "Optional Study Aids"
 
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/surah-yusuf-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
 - Dr Abdur Raheem's recommended method of studying this book can be seen [here](http://drvaniya.com/wp-content/uploads/2011/11/Al-Musif-Complete-Method-on-How-To-Study.pdf){target=\_blank}.
 - Word by word [translation of Surah Yusuf](http://drvaniya.com/wp-content/uploads/2011/11/Dr.-M.-Mohar-Ali-Translation-of-the-Meanings-of-Suurah-Yuusuf.pdf){target=\_blank}.
 - Simplified [tafseer of Surah Yusuf](http://drvaniya.com/wp-content/uploads/2011/11/Simplified-Tafsiir-of-Suurah-Yuusuf.pdf){target=\_blank}.

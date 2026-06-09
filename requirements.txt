@@ -1,5 +1,7 @@
 -i https://pypi.org/simple
 babel==2.16.0; python_version >= '3.8'
+cairosvg==2.7.1; python_version >= '3.7'
+pillow==11.1.0; python_version >= '3.9'
 certifi==2024.12.14; python_version >= '3.6'
 charset-normalizer==3.4.1; python_version >= '3.7'
 click==8.1.8; python_version >= '3.7'

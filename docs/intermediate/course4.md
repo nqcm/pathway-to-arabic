@@ -17,6 +17,7 @@ Surat al-Hujuraat contains profound obligations and character-building injunctio
 
 !!! tip "Optional Study Aids"
 
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/surah-alhujuraat-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
 - [Surah al-Hujuraat Exhaustive Index](http://drvaniya.com/wp-content/uploads/2011/11/Suurah-al-Hujuraat-Exhaustive-Index.pdf){target=\_blank}
 - [Simplified tafseer of Surah al-Hujuraat in Arabic](http://drvaniya.com/wp-content/uploads/2019/08/Suurah-al-Hujuraat-Simplified-Tafsiir.pdf){target=\_blank}
 

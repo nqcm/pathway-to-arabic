@@ -14,6 +14,7 @@ The selected aayaat from surah al-Nur with extensive lexical and grammatical not
 
 !!! tip "Optional Study Aids"
 
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/surah-alnoor-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
 - [Easy tafseer of Surah in Arabic](https://pathway-to-arabic.s3-us-west-2.amazonaws.com/tafseer-muyassar-surah-Noor.pdf){target=\_blank}
 
 <br>

@@ -99,9 +99,9 @@ theme:
     - navigation.indexes
     - search.share
 
-  plugins:
-    - social
-    - search:
+plugins:
+  - social
+  - search:
       lang:
-        - eng
+        - en
         - ar

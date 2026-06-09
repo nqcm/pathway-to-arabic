@@ -71,6 +71,7 @@ New, advanced, grammatical notes and insights are provided from classical Arabic
 - [Download the book](http://drvaniya.com/wp-content/uploads/2021/09/Iqsaam-al-aymaan-fii-Aqsaam-al-Quraan.pdf){target=\_blank} from Dr Abdur Raheem's own website. May Allah reward him for providing all his books free of cost to everyone.
 
 - Or you can buy the book from [here](https://kitaabun.com/shopping3/6643-iqsamul-ayman-aqsamul-quran-arabic-abdur-rahim-p-6643.html){target=\_blank} or [here](https://www.arabicbookshop.net/iqsam-al-ayman-fi-aqsam-al-quran/260-401){target=\_blank} or [here](http://islamicshop.in/store/dr-v-abdur-rahim-books/iqsam-al-ayman-fi-aqsam-al-qur-an.html){target=\_blank}.
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/oaths-in-quran-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
 
 <br>
 ****

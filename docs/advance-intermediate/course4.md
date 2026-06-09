@@ -13,3 +13,9 @@ A selection of ayaat 23 to 39 from Surah al-Isra with lexical and grammatical no
 - Check the answers for the workbook from [here](http://drvaniya.com/wp-content/uploads/2019/09/Suurah-al-Israa-_-Workbook-with-answers.pdf){target=\_blank}
 
 <br>
+
+!!! tip "Optional Study Aids"
+
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/surah-alisraa-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
+
+<br>

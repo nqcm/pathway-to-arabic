@@ -16,3 +16,9 @@ Various selected Quranic chapters are gathered with lexical and grammatical note
 - [Simple tafseer in Arabic of all surahs in the book](http://drvaniya.com/wp-content/uploads/2019/08/al-Tafsiir-al-Muyassar-suurahs-on-Selections-course.pdf){target=\_blank}
 
 <br>
+
+!!! tip "Optional Study Aids"
+
+- I have taught this book online in a ladies only class. The [notes from my teaching sessions](https://nqcm.github.io/pathway-to-arabic-study-group/selection-sessions/){target=\_blank} are a very good resource on their own. If you want recordings of the class (available only for ladies), please contact me.
+
+<br>
